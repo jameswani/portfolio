@@ -41,7 +41,7 @@ function About()  {
               text: 'Email',
             },
             {
-              link: {resume},
+              link: resume,
               icon: <HiDocumentText className="w-6 h-6 mr-1" />,
               text: 'Resume',
             },
