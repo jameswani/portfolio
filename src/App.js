@@ -3,6 +3,7 @@ import NavBar from './pages/NavBar.jsx';
 import About from './pages/About.jsx';
 import Projects from './pages/Projects.jsx';
 import {Footer} from './pages/Footer.jsx';
+import Experience from './pages/Experience.jsx';
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
     
         <NavBar />
         <About />
+        <Experience/>
         <Projects/>
         <Footer/>
     </div>
