@@ -16,10 +16,10 @@ function Projects() {
         "GitHub Trends dives deep into the GitHub API to bring you insightful metrics on your contributions, broken by repository and language.",
       startDate: "May, 2020",
       endDate: "Present",
-      website: "https://githubtrends.io",
+      website: "",
       links: [
         {
-          link: "https://github.com/avgupta456/github-trends",
+          link: "",
           name: "GitHub Repo",
         },
       ],
@@ -36,10 +36,10 @@ function Projects() {
         "Statbotics modernizes FRC data analytics by calculating and disseminating key metrics including Elo and component OPRs",
       startDate: "Sept, 2021",
       endDate: "Present",
-      website: "https://statbotics.io",
+      website: "",
       links: [
         {
-          link: "https://github.com/avgupta456/statbotics",
+          link: "",
           name: "GitHub Repo",
         },
       ],
@@ -56,10 +56,10 @@ function Projects() {
         "Hopscotch helps you discover suitable neighborhoods based on many factors: budget, grocery stores, gyms, subway lines, bike share, parks, safety, proximity to specific locations and more",
       startDate: "August, 2022",
       endDate: "August, 2022",
-      website: "https://hopscotch.nyc",
+      website: "",
       links: [
         {
-          link: "https://www.producthunt.com/products/hopscotch-6",
+          link: "",
           name: "Product Hunt",
         },
       ],
@@ -112,11 +112,11 @@ function Projects() {
       endDate: "August, 2020",
       links: [
         {
-          link: "https://github.com/avgupta456/medium_nlp",
+          link: "",
           name: "GitHub Repo",
         },
         {
-          link: "https://medium.com/@avgupta456/natural-language-processing-nlp-dont-reinvent-the-wheel-8cf3204383dd",
+          link: "",
           name: "Medium Article",
         },
       ],
