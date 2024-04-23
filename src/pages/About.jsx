@@ -14,7 +14,7 @@ function About()  {
                 <h1 className="title">
                 Hi, my name is James Lako 
                 </h1>
-                <p className="description">
+                <p className=" description">
                     I am a recent graduate of the University of Rochester with a Bachelors of Arts in Computer 
                     Science. I am currently seeking for Internship/Full-time Roles in Software engineering, especially in the fields of Artificial Intelligence and 
                     Machine Learning. Contact me for any questions you may have or just to chat about my projects. Scroll below to learn about the amazing projects I have built.

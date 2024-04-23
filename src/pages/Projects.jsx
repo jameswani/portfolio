@@ -25,30 +25,24 @@ function Projects() {
       ],
       tags: ["Java, Minimax-Maxima Algorithm, Alpha-beta pruning"],
       image:connect4,
-      stat: {
-        label: "",
-        stat: "",
-      },
+      
     },
     {
       title: "DVCS (Distributed Version Control System)",
       description:
-        "This project was part of my collaborative Software Programming class and was made possible through the effort of 4. We designed and implement a modular version control system similar to git. It utilizes Rust, Parnas’ modular design principles, collaborative programming",
+        "This project was part of my collaborative Software Programming class and was made possible through the effort of 4. We designed and implement a modular version control system similar to git. It utilizes Rust, Parnas’ modular design principles and collaborative programming.",
       startDate: "Aug '23",
       endDate: "Dec '23",
       website: "",
       links: [
         {
           link: "",
-          name: "GitHub Repo",
+          name: "",
         },
       ],
       tags: ["Rust, Git, GitHub, Agile Project Management"],
       image: dvcs,
-      stat: {
-        label: "",
-        stat: "",
-      },
+      
     },
     {
       title: "NFA-DFA",
@@ -65,51 +59,38 @@ function Projects() {
       ],
       tags: ["C, DFA-NFA, CLion, MakeC"],
       image: nfa,
-      stat: {
-        label: "",
-        stat: "",
-      },
+      
     },
     {
       title: "AdasTravel",
       description:
-        "Extending existing GNN explanation algorithms for node and graph tasks to link prediction on social network and user-object graphs. Contributing to the open-source PyTorch Geometric library.",
+        "Adastravel was a bus scheduling app designed to efficiently schedule bus traveling for the local population in Tanzania.",
       startDate: "Aug, 2022",
       endDate: "Present",
-      tags: ["Research", "GNNs", "Python", "Pytorch Geometric"],
+      tags: ["JavaScript", "MySQL", "React", "Rest-API"],
       image: adastravel,
-      stat: {
-        label: "Key Fact",
-        stat: "Working with Prof. Rex Ying at Yale",
-      },
+      
     },
     
     {
       title: "Currency Converter",
       description:
-        "Quickbites integrated with Uber Eats, Doordash, and GrubHub to find the cheapest and fastest food delivery options based on your location, requirements, and preferences.",
+        "Currency converter was designed to show real time currency exchange rates as part of my Android development class.",
       startDate: "Nov, 2020",
       endDate: "Jan, 2021",
       tags: [
-        "Deprecated :(",
         "APIs",
-        "Python",
-        "FastAPI",
-        "React Native",
-        "Expo",
+        "Kotlin",
       ],
       image: shortestpath,
-      stat: {
-        label: "Key Fact",
-        stat: "Downloaded over 1000 times on the App Store",
-      },
+      
     },
     {
       title: "Memez",
       description:
-        "Implemented similarity, sentiment, and topic analysis on Coursetable reviews using NLP techniques. Wrote a Medium article highlighting key Python libraries to build upon.",
+        "Like Currency converter, Memez was part of my Android Development class and was so friends could create and share memes with each other. This was an interactive project where users could create their own memes from ",
       startDate: "August, 2020",
-      endDate: "August, 2020",
+      endDate: "September, 2020",
       links: [
         {
           link: "",
@@ -117,10 +98,10 @@ function Projects() {
         },
         {
           link: "",
-          name: "Medium Article",
+          name: "",
         },
       ],
-      tags: ["NLP", "Python", "Gensim"],
+      tags: ["Kotlin", "MongoDB"],
       image: nfa,
     },
   ];
