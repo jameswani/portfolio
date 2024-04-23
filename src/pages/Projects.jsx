@@ -11,31 +11,31 @@ import connect4 from "../assets/projects/connect4.png";
 function Projects() {
   const projects = [
     {
-      title: "Connect 4 AI Agent",
+      title: "Connect 4 AI",
       description:
-        "GitHub Trends dives deep into the GitHub API to bring you insightful metrics on your contributions, broken by repository and language.",
+      "This project uses an AI agent for Connect Four with an average 95% win/tie ratio running in under 45 milliseconds. It utilizes Java, Adversarial search, Alpha beta pruning, Java GUI and OOP",
       startDate: "May, 2020",
       endDate: "Present",
       website: "",
       links: [
         {
           link: "",
-          name: "GitHub Repo",
+          name: "",
         },
       ],
-      tags: ["GitHub API", "Python", "FastAPI", "MongoDB", "React"],
+      tags: ["Java, Minimax-Maxima Algorithm, Alpha-beta pruning"],
       image:connect4,
       stat: {
-        label: "Key Stat",
-        stat: "2000+ users have created a GitHub Wrapped",
+        label: "",
+        stat: "",
       },
     },
     {
       title: "DVCS (Distributed Version Control System)",
       description:
-        "Statbotics modernizes FRC data analytics by calculating and disseminating key metrics including Elo and component OPRs",
-      startDate: "Sept, 2021",
-      endDate: "Present",
+        "This project was part of my collaborative Software Programming class and was made possible through the effort of 4. We designed and implement a modular version control system similar to git. It utilizes Rust, Parnas’ modular design principles, collaborative programming",
+      startDate: "Aug '23",
+      endDate: "Dec '23",
       website: "",
       links: [
         {
@@ -43,31 +43,31 @@ function Projects() {
           name: "GitHub Repo",
         },
       ],
-      tags: ["Python", "FastAPI", "SQL", "React", "GCP"],
+      tags: ["Rust, Git, GitHub, Agile Project Management"],
       image: dvcs,
       stat: {
-        label: "Key Stat",
-        stat: "Over 40,000 users have used Statbotics",
+        label: "",
+        stat: "",
       },
     },
     {
       title: "NFA-DFA",
       description:
-        "Hopscotch helps you discover suitable neighborhoods based on many factors: budget, grocery stores, gyms, subway lines, bike share, parks, safety, proximity to specific locations and more",
-      startDate: "August, 2022",
-      endDate: "August, 2022",
+        "An efficient tool for conversion between finite state and nondeterministic finite state automata Utilized C, finite and nonfinite automata, CLion, GitHub, git",
+      startDate: "Fall 22",
+      endDate: "",
       website: "",
       links: [
         {
           link: "",
-          name: "Product Hunt",
+          name: "",
         },
       ],
-      tags: ["Data Scraping", "Jupyter", "React", "Tailwind"],
+      tags: ["C, DFA-NFA, CLion, MakeC"],
       image: nfa,
       stat: {
-        label: "Shortest Path",
-        stat: "Built Hopscotch in just one week at HackLodge.",
+        label: "",
+        stat: "",
       },
     },
     {
@@ -113,7 +113,7 @@ function Projects() {
       links: [
         {
           link: "",
-          name: "GitHub Repo",
+          name: "",
         },
         {
           link: "",
